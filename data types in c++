@@ -1,0 +1,17 @@
+#include <iostream>
+using namespace std;
+
+int main() {
+
+int age=20;
+float salary=545678.89;
+char initial='A';
+bool employee=true;
+
+cout<<"age:"<<age<<endl;
+cout<<"salary:"<<salary<<endl;
+cout<<"initial:"<<initial<<endl;
+cout<<"employee:"<<employee<<endl;
+
+return 0;
+}
