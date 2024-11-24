@@ -1,0 +1,15 @@
+#include <iostream>
+using namespace std;
+
+int main(){
+
+int age=4;
+float height=4.1;
+char grade='A';
+
+cout<<"Age:"<<age<<endl;
+cout<<"height:"<<height<<endl;
+cout<<"grade:"<<grade<<endl;
+
+return 0;
+}
