@@ -1,0 +1,15 @@
+#include <iostream>
+using namespace std;
+
+int main () {
+    int temperature=25;
+    if(temperature>30){
+        cout<<"its hot!";
+    }
+    else if (temperature >20){
+   cout<<"its warm!";
+    }
+    else{
+        cout<<"its cool!";
+    }
+}
